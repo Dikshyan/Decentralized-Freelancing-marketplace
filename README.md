@@ -113,3 +113,7 @@ To create a trustless, transparent, and decentralized ecosystem where freelancer
 ---
 
 **Note**: This is a foundational implementation. Additional security measures, extensive testing, and professional audits are recommended before mainnet deployment.
+
+Contract Details : 0x882a912f842476Ad4A12ecc0DD1257cE504E4d39
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d81ce96-97c7-493f-b00b-12430b63ab49" />
+
